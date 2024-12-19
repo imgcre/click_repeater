@@ -1,0 +1,6 @@
+{
+    "python.missingPackage.severity": "Hint",
+    "python.languageServer": "Default",
+    "python.analysis.stubPath": "typings",
+    "python.analysis.useLibraryCodeForTypes": true
+}

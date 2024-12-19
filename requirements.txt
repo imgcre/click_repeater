@@ -1,0 +1,1 @@
+micropython-esp32-stubs==1.22.0.post1
